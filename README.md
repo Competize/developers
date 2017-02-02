@@ -1,4 +1,4 @@
-# developers# Footballtracker Developers
+# Footballtracker Developers
 
 Footballtracker for developers provides access to the public API of the [Footballtracker's platform](https://www.football-tracker.com).
 
