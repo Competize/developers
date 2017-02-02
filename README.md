@@ -29,3 +29,12 @@ Two pitches are registered on the competition, available on Saturday at 18:30 an
 - Example3.php: This example gets all the data of a Competition and stores in the output folder.
 
 Feel free to fork this repo, create your own examples and submit a PR.
+
+### Development
+
+Want to contribute? Great!
+Feel free to fork this repo, create your own examples and submit a PR.
+
+###License
+
+Apache 2.0
