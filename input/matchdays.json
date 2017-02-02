@@ -1,0 +1,28 @@
+{
+  "match_days": [
+    {
+      "day": 6,
+      "time": "18:30",
+      "weekly": true,
+      "pitch": 1
+    },
+    {
+      "day": 6,
+      "time": "18:30",
+      "weekly": true,
+      "pitch": 2
+    },
+    {
+      "day": 6,
+      "time": "19:30",
+      "weekly": true,
+      "pitch": 1
+    },
+    {
+      "day": 6,
+      "time": "19:30",
+      "weekly": true,
+      "pitch": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "My organization",
+  "city": "Badajoz",
+  "country": "Spain",
+  "photo_url": "https://www.football-tracker.com/img/logo.png",
+  "banner_url": "https://www.football-tracker.com/img/logo.png",
+  "allow_matches": true,
+  "address": "High Street",
+  "postcode": "06011",
+  "phone": "666777888",
+  "contact": "Jhon Tracker",
+  "facts": "Facts of the organization",
+  "game": "Information about the games",
+  "rules": "Rules of the tournament",
+  "allow_team_admin": true,
+  "email": "info@football-tracker.com",
+  "web": "https://football-tracker.com",
+  "twitter": "https://twitter.com/footballtracker",
+  "facebook": "https://www.facebook.com/Footballtracker/",
+  "instagram": "https://www.instagram.com/footballtracker/"
+}

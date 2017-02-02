@@ -1,0 +1,17 @@
+{
+  "_id": 1001,
+  "name": "My competition",
+  "city": "Badajoz",
+  "country": "Spain",
+  "photo_url": "https://www.football-tracker.com/img/logo.png",
+  "id_group_age": 1,
+  "id_format": 1,
+  "id_type_tournament": 1,
+  "num_groups": 1,
+  "num_rounds": 1,
+  "status": 0,
+  "from_start": "2017-01-24 18:00",
+  "to_end": "2017-03-24 18:00",
+  "payments": true,
+  "mvp_allowed": true
+}

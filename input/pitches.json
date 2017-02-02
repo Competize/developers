@@ -1,0 +1,22 @@
+{
+  "pitches": [
+    {
+      "name": "Pitch 1",
+      "location": "High Street, 3",
+      "message": "This is my pitch",
+      "latitude": 0,
+      "longitude": 0,
+      "city": "Badajoz",
+      "country": "Spain"
+    },
+    {
+      "name": "Pitch 2",
+      "location": "High Street, 3",
+      "message": "This is my pitch",
+      "latitude": 0,
+      "longitude": 0,
+      "city": "Badajoz",
+      "country": "Spain"
+    }
+  ]
+}
