@@ -1,6 +1,6 @@
 # Footballtracker Developers
 
-Footballtracker for developers provides access to the public [Footballtracker's platform](https://www.football-tracker.com).
+Footballtracker for developers provides access to the public [Footballtracker's platform](https://www.football-tracker.com)
  API.
  
 We created Footballtracker, years ago, with one main target. Reduce the gap between amateur and professional football. That´s the reason because our platform is complete free.
