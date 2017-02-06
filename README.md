@@ -1,12 +1,13 @@
 # Footballtracker Developers
 
-Footballtracker for developers provides access to the public API of the [Footballtracker's platform](https://www.football-tracker.com).
-
+Footballtracker for developers provides access to the public [Footballtracker's platform](https://www.football-tracker.com).
+ API.
+ 
 We created Footballtracker, years ago, with one main target. Reduce the gap between amateur and professional football. That´s the reason because our platform is complete free.
 
-Now, with the [Footballtracker for developers platform](https://www.developers.football-tracker.com), we are giving the next natural step. We´re sharing the core of Footballtracker to help you creating football competitions with no hussle.
+Now, with the [Footballtracker for developers platform](https://www.developers.football-tracker.com), we are giving the next natural step. We´re sharing the core of Footballtracker to help you creating football competitions with no hassle.
 
-Once you've a developers account, you can manage your own organizations, competitions, teams, players, matches, pitches, etc throught our API. We offer private store for your data, assuring no one else could access to them, and the best of all, we are offering all the logic of creating and updating tables, schedules, rankings, etc, with just a couple of requests.
+With a Footballtracker developer's account, you can manage your own organizations, competitions, teams, players, matches, pitches, etc throught our API. We offer private store for your data, assuring no one else could access to them, and the best of all, we are offering all the logic of creating and updating tables, schedules, rankings, etc, with just a couple of requests.
 
 So, anyone can easily create their own competition site, or mobile app, without worriyng about the backend side. You take care of presenting the data as you desire, we'll do the dirty work.
 
