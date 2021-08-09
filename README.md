@@ -1,6 +1,6 @@
 # Competize Developers
 
-Competize for developers provides access to the public [Footballtracker's platform](https://www.football-tracker.com)
+Competize for developers provides access to the public [Competize's platform](https://www.competize.com)
  API.
  
 We created Competize, years ago, with one main target. Reduce the gap between amateur and professional football. That´s the reason because our platform is complete free.
