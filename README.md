@@ -1,13 +1,13 @@
-# Footballtracker Developers
+# Competize Developers
 
-Footballtracker for developers provides access to the public [Footballtracker's platform](https://www.football-tracker.com)
+Competize for developers provides access to the public [Footballtracker's platform](https://www.football-tracker.com)
  API.
  
-We created Footballtracker, years ago, with one main target. Reduce the gap between amateur and professional football. That´s the reason because our platform is complete free.
+We created Competize, years ago, with one main target. Reduce the gap between amateur and professional football. That´s the reason because our platform is complete free.
 
-Now, with the [Footballtracker for developers platform](https://www.developers.football-tracker.com), we are giving the next natural step. We´re sharing the core of Footballtracker to help you creating football competitions with no hassle.
+Now, with the [Competize for developers platform](https://devs.competized.com), we are giving the next natural step. We´re sharing the core of Competize to help you creating football competitions with no hassle.
 
-With a Footballtracker developer's account, you can manage your own organizations, competitions, teams, players, matches, pitches, etc throught our API. We offer private store for your data, assuring no one else could access to them, and the best of all, we are offering all the logic of creating and updating tables, schedules, rankings, etc, with just a couple of requests.
+With a Competize developer's account, you can manage your own organizations, competitions, teams, players, matches, pitches, etc throught our API. We offer private store for your data, assuring no one else could access to them, and the best of all, we are offering all the logic of creating and updating tables, schedules, rankings, etc, with just a couple of requests.
 
 So, anyone can easily create their own competition site, or mobile app, without worriyng about the backend side. You take care of presenting the data as you desire, we'll do the dirty work.
 
@@ -19,9 +19,9 @@ In this repo you can find some examples written in PHP of making request to the 
 ```sh
 $ php <name of the file>
 ```
-If you prefer, you can use our [UI](https://www.developers.football-tracker.com/documentation), or just execute curl requests. 
+If you prefer, you can use our [UI](https://www.devs.competize.com/documentation), or just execute curl requests. 
 
-To test the examples you need to sign up as a [Footballtracker developer](https://www.developers.football-tracker.com/signup), and create an app. All the apps has 15 days of free trial, so you can test the API before deciding if you want to go ahead with us.
+To test the examples you need to sign up as a [Competize developer](https://devs.competize.com/signup), and create an app. All the apps has 15 days of free trial, so you can test the API before deciding if you want to go ahead with us.
 
 There are three basic examples in this repo:
 - Example1.php: Creates a new Organization with one competition. The competition is a single leg league with 8 teams.
