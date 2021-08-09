@@ -37,8 +37,7 @@ Want to contribute? Great!
 Feel free to fork this repo, create your own examples and submit a PR.
 
 ###License
-```sh
-Copyright 2017 Footballtracker Limited
+Copyright 2021 Competize Soloutions Limited
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
